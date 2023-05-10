@@ -72,5 +72,6 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int distance = scanner.nextInt();
         daysCalculation(distance);
+
     }
 }
